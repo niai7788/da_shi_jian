@@ -68,7 +68,7 @@ $(function() {
                     // 将登录成功得到的 token 字符串，保存到 localStorage 中
                 localStorage.setItem('token', res.token)
                     // 跳转到后台主页
-                location.href = '/最新前端资料2020.5/04-阶段四：前后端交互阶段资料新/第四阶段：前后端交互阶段资料新/大事件项目课程资料%20-%20副本/day1（1-3小节）/code/index.html'
+                location.href = 'index.html'
             }
         })
     })
